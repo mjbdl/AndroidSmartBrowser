@@ -3,7 +3,10 @@ Smart Android Browser with multi Features, Easy to use &amp; modify code.
 
 # Download Source Code
 
-<li><a href="https://try-tolearn.blogspot.com">Download Source Code</a></li>
+<li><a href="https://try-tolearn.blogspot.com/2020/08/android-smart-browser-source-code.html">Download Source Code</a></li>
+<br>
+
+<li><a href="https://try-tolearn.blogspot.com/2020/08/android-smart-browser-source-code.html">Download Demo Apk file</a></li>
 <br>
 
 # Screenshot
