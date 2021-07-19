@@ -10,17 +10,13 @@ Smart Android Browser with multi Features, Easy to use &amp; modify code.
 <br>
 
 # Screenshot
-<h2> Homepage </h2>
-<img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-120741.png" border="0" />
 
-<h2> Menu Button </h2>
-<img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-120748.png" border="0" />
+| <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-120741.png" width = "300"/> | <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-120748.png" width = "300"/> |
+|:---:|:---:|
+| Homepage | Menu Button |
 
-<h2> Multi Tab </h2>
-<img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-121012.png" border="0" />
-
-<h2> Settings </h2>
-<img width="150" style="border:0px;width:150px;display:block;margin:0 auto" src="https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-121036.png" border="0" />
-
+| <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-121012.png" width = "300"/> | <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-121036.png" width = "300"/> |
+|:---:|:---:|
+| Multi Tab | Settings |
 
 
