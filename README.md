@@ -1,13 +1,24 @@
-# Android Smart Browser
-Smart Android Browser with multi Features, Easy to use &amp; modify code.
+## Smart Android Browser
+##### Smart Android Browser with multi Features, Easy to use & modify code. 
 
-# Download Source Code
+#### App Demo : [Demo app link](https://drive.google.com/file/d/11wr-lg6SL8TKY8nJWtzt4HPjBosZ4mZ3/view?usp=drivesdk)<br>
 
-<li><a href="https://try-tolearn.blogspot.com/2020/08/android-smart-browser-source-code.html">Download Source Code</a></li>
-<br>
+## Features
 
-<li><a href="https://github.com/Mahadev-code/AndroidSmartBrowser/releases/tag/v1.0">Download Demo Apk file</a></li>
-<br>
+- [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
+- [x] Lightweight - does not take lots of resources to run
+- [x] Fast - surf the web at the best speed posible
+- [x] Multi Tab - Add/Remove multiple tab
+- [x] App Settings - control app settings
+- [x] Download Manager - Standard Download System
+- [x] Customizable - Easy to Customize
+- [x] Nice UI - it is designed to look and work great
+- [x] Search Manager - Search System available
+- [x] Bottom Navigation Drawer - Standard look Navigation Drawer
+- [x] Option menu - Various Option menu
+- [x] Easy to use in Android Studio
+- [x] Handle External URLs like(youtube.com,play.google.com, and others)
+- [x] No Coding skills required
 
 # Screenshot
 
@@ -20,3 +31,7 @@ Smart Android Browser with multi Features, Easy to use &amp; modify code.
 | Multi Tab | Settings |
 
 
+### Join Telegram
+1. Get all Available updates of **Smart Android Browser Source Code** via Telegram Channel.
+2. All Information About Smart Android Browser.
+##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
