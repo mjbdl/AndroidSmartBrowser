@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Smart Android Browser
+##### Smart Android Browser with multi Features, Easy to use & modify code. 
 
-You can use the [editor on GitHub](https://github.com/Mahadev-code/AndroidSmartBrowser/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### App Demo : [Demo app link](https://drive.google.com/file/d/11wr-lg6SL8TKY8nJWtzt4HPjBosZ4mZ3/view?usp=drivesdk)<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Features
 
-### Markdown
+- [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
+- [x] Lightweight - does not take lots of resources to run
+- [x] Fast - surf the web at the best speed posible
+- [x] Download Manager - Standard Download System
+- [x] Customizable - Easy to Customize
+- [x] Nice UI - it is designed to look and work great
+- [x] Search Manager - Search System available
+- [x] Bottom Navigation Drawer - Standard look Navigation Drawer
+- [x] Option menu - Various Option menu
+- [x] Easy to use in Android Studio
+- [x] Handle External URLs like(youtube.com,play.google.com, and others)
+- [x] No Coding skills required
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Join Telegram
+1. Get all Available updates of **Smart Android Browser Source Code** via Telegram Channel.
+2. All Information About Smart Android Browser.
+##### [Join Telegram channel](https://t.me/LeafExplorer)</br>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## ✨ Donation Features
+- [x] **Free** Update.
+- [x] Update Details Via **Telegram Channel**.
+- [x] Regular Bug Fixes.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**No official Support Available**
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mahadev-code/AndroidSmartBrowser/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Report your [issues](https://github.com/Mahadev-code/Github-SmartWebView/issues) here.
