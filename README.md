@@ -17,7 +17,7 @@
 - [x] Bottom Navigation Drawer - Standard look Navigation Drawer
 - [x] Option menu - Various Option menu
 - [x] Easy to use in Android Studio
-- [x] Handle External URLs like(youtube.com,play.google.com, and others)
+- [x] Handle External URLs like(play.google.com, and others)
 - [x] No Coding skills required
 
 ### Join Telegram
