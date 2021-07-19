@@ -8,6 +8,8 @@
 - [x] Supported Devices *Android Lollipop* to *Android 10(Q)* **And Above**.
 - [x] Lightweight - does not take lots of resources to run
 - [x] Fast - surf the web at the best speed posible
+- [x] Multi Tab - Add/Remove multiple tab
+- [x] App Settings - control app settings
 - [x] Download Manager - Standard Download System
 - [x] Customizable - Easy to Customize
 - [x] Nice UI - it is designed to look and work great
@@ -17,17 +19,6 @@
 - [x] Easy to use in Android Studio
 - [x] Handle External URLs like(youtube.com,play.google.com, and others)
 - [x] No Coding skills required
-
-# Screenshot
-
-| <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-120741.png" width = "300"/> | <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-120748.png" width = "300"/> |
-|:---:|:---:|
-| Homepage | Menu Button |
-
-| <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-121012.png" width = "300"/> | <img src = "https://github.com/mjbdl/AndroidSmartBrowser/blob/master/Screenshot_20200804-121036.png" width = "300"/> |
-|:---:|:---:|
-| Multi Tab | Settings |
-
 
 ### Join Telegram
 1. Get all Available updates of **Smart Android Browser Source Code** via Telegram Channel.
